@@ -3,3 +3,4 @@ def fun():
 
 
 fun()
+print("哈哈h")
